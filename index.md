@@ -31,7 +31,7 @@ I told her we all have to start somewhere and showed her my first ever code I wr
 ```
 class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hello, World!")
+        System.out.println("Hello, World!");
     }
 }
 ```
