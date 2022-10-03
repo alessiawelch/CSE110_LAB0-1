@@ -7,6 +7,8 @@
 
 [Randomness](#randomness)
 
+[Surpirse](#surprise)
+
 ## My Face :)
 Here is my high school senior portrait:
 ![](pictureofme.jpg)
@@ -44,9 +46,9 @@ I also had time to expirement with different coding languages. I change my mind 
 3. Java (honestly could be higher in this list - I'm indecisive)
 
 My goals for this year are:
-[ ] push myself outside my comfort zone
-[ ] get an internship :)
-[ ] strengthen my friendships and relationships
+- [ ] push myself outside my comfort zone
+- [ ] get an internship :)
+- [ ] strengthen my friendships and relationships
 
 ##### Surprise
 
