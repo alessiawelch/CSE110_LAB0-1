@@ -22,7 +22,7 @@ If I could choose three words to describe me, It would be:
 
 ## Randomness
 
-When I told a girl I was a CS major, she told me that I could * *speak* * to computers and they could * *speak* * to me. So now, my favorite quote is:
+When I told a girl I was a CS major, she told me that I could *speak* to computers and they could *speak* to me. So now, my favorite quote is:
 
 > Computers talk to us
 
