@@ -52,6 +52,6 @@ My goals for this year are:
 
 ##### Surprise
 
-Guess my favorite color. A specific shade of a color. Based on vibes. For the reveal click this link ;). (No cheating). [Click only if you atually made a guess](download.png)
+Guess my favorite color. A specific shade of a color. Based on vibes. For the reveal click this link ;). (No cheating). [Click only if you actually made a guess](download.png)
 
 Also cannot spell without spell correct, so please turn a blind eye to any spelling errors
