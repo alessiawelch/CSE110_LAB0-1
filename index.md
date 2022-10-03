@@ -46,7 +46,7 @@ I also had time to expirement with different coding languages. I change my mind 
 3. Java (honestly could be higher in this list - I'm indecisive)
 
 My goals for this year are:
-- [ ] push myself outside my comfort zone
+- [X] push myself outside my comfort zone
 - [ ] get an internship :)
 - [ ] strengthen my friendships and relationships
 
